@@ -1,13 +1,9 @@
 #EXTM3U
-
 #EXTINF:-1,Movie 1
 https://pub-4303e460770d4e3b9dec563896c589c7.r2.dev/LCK_32_1.mp4
-
 #EXTINF:-1,Movie 2
 https://pub-4303e460770d4e3b9dec563896c589c7.r2.dev/LCK_32_2.mp4
-
 #EXTINF:-1,Movie 3
 https://pub-4303e460770d4e3b9dec563896c589c7.r2.dev/LCK_33_1.mp4
-
 #EXTINF:-1,Movie 4
 https://pub-4303e460770d4e3b9dec563896c589c7.r2.dev/LCK_33_2.mp4

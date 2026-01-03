@@ -1,9 +1,17 @@
 #EXTM3U
-#EXTINF:-1,Movie 1
-https://pub-4303e460770d4e3b9dec563896c589c7.r2.dev/LCK_32_1.mp4
-#EXTINF:-1,Movie 2
-https://pub-4303e460770d4e3b9dec563896c589c7.r2.dev/LCK_32_2.mp4
-#EXTINF:-1,Movie 3
-https://pub-4303e460770d4e3b9dec563896c589c7.r2.dev/LCK_33_1.mp4
-#EXTINF:-1,Movie 4
-https://pub-4303e460770d4e3b9dec563896c589c7.r2.dev/LCK_33_2.mp4
+#EXTINF:-1,LCK_34_1
+https://pub-4303e460770d4e3b9dec563896c589c7.r2.dev/LCK_34_1.mp4
+#EXTINF:-1,LCK_34_2
+https://pub-4303e460770d4e3b9dec563896c589c7.r2.dev/LCK_34_2.mp4
+#EXTINF:-1,LCK_35_1
+https://pub-4303e460770d4e3b9dec563896c589c7.r2.dev/LCK_35_1.mp4
+#EXTINF:-1,LCK_35_2
+https://pub-4303e460770d4e3b9dec563896c589c7.r2.dev/LCK_35_2.mp4
+#EXTINF:-1,LCK_36_1
+https://pub-4303e460770d4e3b9dec563896c589c7.r2.dev/LCK_36_1.mp4
+#EXTINF:-1,LCK_36_2
+https://pub-4303e460770d4e3b9dec563896c589c7.r2.dev/LCK_36_2.mp4
+#EXTINF:-1,LCK_37_1
+https://pub-4303e460770d4e3b9dec563896c589c7.r2.dev/LCK_37_1.mp4
+#EXTINF:-1,LCK_37_2
+https://pub-4303e460770d4e3b9dec563896c589c7.r2.dev/LCK_37_2.mp4
